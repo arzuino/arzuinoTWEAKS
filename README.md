@@ -24,7 +24,7 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 ![Admin Control Panel Screenshot](/assets/images/adminCPbook.png)
 
 ## Crop Growing 
-*(Time decreased to 3 seconds, it would normaly do this after 5 minutes, or when it would despawns)*
+*(Time decreased to 3 seconds, it would normaly do this after 5 minutes, or when it would despawn)*
 ![Crop Growing GIF](/assets/images/cropGrowing.gif)
 
 # Instalation
