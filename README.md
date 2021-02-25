@@ -35,9 +35,5 @@ Download latest release from sidebar. Put it in `%appdata% > .minecraft > saves 
 
 # Join Our Community!
 
-![https://discord.gg/Byfqh3JPH4](/assets/images/arzuinoTWEAKScommunity.png "https://discord.gg/Byfqh3JPH4")
-
-[<img src="/assets/images/arzuinoTWEAKScommunity.png">](https://discord.gg/Byfqh3JPH4)
-
-[![Foo](/assets/images/arzuinoTWEAKScommunity.png)](https://discord.gg/Byfqh3JPH4)
+[![arzuinoTWEAKS Commuinity](/assets/images/arzuinoTWEAKScommunity.png)](https://discord.gg/Byfqh3JPH4)
 #
