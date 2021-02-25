@@ -4,17 +4,17 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 
 # Features
 
-100% vanilla
+• 100% vanilla
 
-A wiki soon to come
+• A wiki soon to come
 
-Permissions without using default minecraft permissions
+• Permissions without using default minecraft permissions
 
-An admin book-gui
+• An admin book-gui
 
-Crop-Replanting
+• Crop-Replanting
 
-More uses for potions, armor stand control, and item frame invisibilty and locking
+• More uses for potions, armor stand control, and item frame invisibilty and locking
 
 # Screenshots
 ## Admin Control Panel Book-GUI.
