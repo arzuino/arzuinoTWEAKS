@@ -8,7 +8,7 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 
 • 100% vanilla
 
-• A wiki soon to come
+• [A wiki](https://github.com/arzuino/arzuinoTWEAKS/wiki)
 
 • Permissions without using default minecraft permissions
 
