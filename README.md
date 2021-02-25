@@ -1,3 +1,5 @@
+![arzuinoTWEAKS Logo](/assets/images/arzuinoTWEAKS.png)
+
 # Overview
 A datapack for minecraft that improves quality-of-life. It adds a lot of features, that can all be toggled extremly easily. The whole thing is commented so it is easy to fork.
 
