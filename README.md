@@ -29,7 +29,7 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 
 # Instalation
 
-Download latest release from sidebar. Put it in `%appdata% > .minecraft > saves > YOURWORLD > datapacks`
+Download [latest release](https://github.com/arzuino/arzuinoTWEAKS/releases) from sidebar. Put it in `%appdata% > .minecraft > saves > YOURWORLD > datapacks`
 
 *Note: %appdata% is a shortcut for windows. Put it in the file explorer address bar, or windows search bar. You can also find your .minecraft folder by going to open packs folder in minecraft itself in resource packs.*
 
