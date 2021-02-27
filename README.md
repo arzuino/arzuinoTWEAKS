@@ -12,11 +12,13 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 
 • Permissions without using default minecraft permissions
 
-• An admin book-gui
+• An admin book-gui to change and toggle everything.
 
 • Crop-Replanting
 
 • More uses for potions, armor stand control, and item frame invisibilty and locking
+
+• Disable Elytra Option 
 
 # Screenshots
 ## Admin Control Panel Book-GUI.
