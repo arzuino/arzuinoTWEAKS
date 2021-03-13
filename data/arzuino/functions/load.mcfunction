@@ -2,6 +2,13 @@
 scoreboard objectives add arztw_dummy dummy
 scoreboard objectives add arztw_settings dummy
 scoreboard objectives add admin_cp trigger
+
+#home
+scoreboard objectives add home trigger
+scoreboard objectives add homeX dummy
+scoreboard objectives add homeY dummy
+scoreboard objectives add homeZ dummy
+
 tellraw @a [{"text":"[","color":"dark_gray","bold":true},{"text":"arzuino","color":"#FF553B","bold":true,"italic":true},{"text":"TWEAKS","color":"#54AAFF","bold":true,"italic":true},{"text":"] ","color":"dark_gray","bold":true,"italic":false},{"text":"arzuinoTWEAKS loaded.","color":"gray","bold":false}]
 
 #notify if there is no admins

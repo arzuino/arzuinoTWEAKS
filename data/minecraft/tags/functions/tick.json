@@ -2,6 +2,7 @@
     "values": [
         "arzuino:tick",
         "arzuino:control-panel",
-        "arzuino:item-despawn"
+        "arzuino:item-despawn",
+        "arzuino:home"
     ]   
 }
