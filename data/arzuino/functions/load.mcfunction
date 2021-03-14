@@ -2,6 +2,10 @@
 scoreboard objectives add arztw_dummy dummy
 scoreboard objectives add arztw_settings dummy
 scoreboard objectives add admin_cp trigger
+scoreboard objectives add dark_oak_slab minecraft.used:minecraft.dark_oak_slab
+
+#start loops
+function arzuino:2tick
 
 #home
 scoreboard objectives add home trigger

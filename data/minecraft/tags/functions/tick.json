@@ -3,6 +3,7 @@
         "arzuino:tick",
         "arzuino:control-panel",
         "arzuino:item-despawn",
-        "arzuino:home"
+        "arzuino:home",
+        "arzuino:block-fixes"
     ]   
 }
