@@ -39,3 +39,5 @@ Download [latest release](https://github.com/arzuino/arzuinoTWEAKS/releases) fro
 
 [![arzuinoTWEAKS Commuinity](/assets/images/arzuinoTWEAKScommunity.png)](https://discord.gg/Byfqh3JPH4)
 #
+
+# 🌟Staring this project would be appreciated! 
