@@ -23,7 +23,8 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 # Screenshots
 ## Admin Control Panel Book-GUI.
 
-![Admin Control Panel Screenshot](/assets/images/adminCPbook.png)
+![Admin Control Panel Page 1 Screenshot](/assets/images/adminCPbook.png)
+![Admin Control Panel Page 2 Screenshot](/assets/images/adminCPbook2.png)
 
 ## Crop Growing 
 *(Time decreased to 3 seconds, it would normaly do this after 5 minutes, or when it would despawn)*

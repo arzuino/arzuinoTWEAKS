@@ -1,0 +1,1 @@
+execute as @e[type=item_frame,nbt={Item:{}}] run data modify entity @s Invisible set value 0b
