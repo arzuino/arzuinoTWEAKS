@@ -12,11 +12,13 @@ A datapack for minecraft that improves quality-of-life. It adds a lot of feature
 
 • Permissions without using default minecraft permissions
 
-• An admin book-gui
+• An admin book-gui to change and toggle everything.
 
 • Crop-Replanting
 
 • More uses for potions, armor stand control, and item frame invisibilty and locking
+
+• Disable Elytra Option 
 
 # Screenshots
 ## Admin Control Panel Book-GUI.
@@ -37,3 +39,5 @@ Download [latest release](https://github.com/arzuino/arzuinoTWEAKS/releases) fro
 
 [![arzuinoTWEAKS Commuinity](/assets/images/arzuinoTWEAKScommunity.png)](https://discord.gg/Byfqh3JPH4)
 #
+
+# 🌟Staring this project would be appreciated! 🌟
