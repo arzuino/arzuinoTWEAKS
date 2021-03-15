@@ -1,0 +1,1 @@
+execute as @e at @s if block ~ ~-0.2 ~ stonecutter run effect give @s instant_damage 1 0 true
